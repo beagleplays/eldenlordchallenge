@@ -28,22 +28,6 @@ jobs:
       run: |
         git config --global user.email "beagleplays@gmail.com"
         git config --global user.name "beagleplays"
-        git add docs
-        git commit -m "Add built docs"
-        git push
-
-    - name: Push docs folder
-      run: |
-        git config --global user.email "beagleplays@gmail.com"
-        git config --global user.name "beagleplays"
-        git add docs
-        git commit -m "Add built docs"
-        git push
-
-    - name: Push docs folder
-      run: |
-        git config --global user.email "beagleplays@gmail.com"
-        git config --global user.name "beagleplays"
         git checkout develop
         git add docs
         git commit -m "Add built docs"
