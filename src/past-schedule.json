@@ -4,15 +4,15 @@
         "description":"Der letzte Test",
         "date":"29.10.2024",
         "time":"19:00",
-        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
-        "url":"https://twitch.tv/beagleplays"
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
+        "url":"https:twitch.tv/beagleplays"
     },
     {
         "streamer":"T_bbix",
         "description":"Ich spiele Elden Ring?!",
         "date":"25.10.2024",
         "time":"17:30",
-        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
-        "url":"https://google.de"
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
+        "url":"https:twitch.tv/t_bbix"
     }
 ]
