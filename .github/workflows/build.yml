@@ -31,4 +31,4 @@ jobs:
         git checkout develop
         git add docs
         git commit -m "Add built docs"
-        git push https://beagleplays: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@github.com/beagleplays/eldenlordchallenge.git develop 
+        git push https://beagleplays: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@github.com/beagleplays/eldenlordchallenge.git develop 
