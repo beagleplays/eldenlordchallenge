@@ -23,3 +23,12 @@ jobs:
 
     - name: Build the project
       run: npm run build
+
+    - name: Push docs folder
+      run: |
+        git config --global user.email "beagleplays@gmail.com"
+        git config --global user.name "beagleplays"
+        git checkout develop
+        git add docs
+        git commit -m "Add built docs"
+        git push origin develop
