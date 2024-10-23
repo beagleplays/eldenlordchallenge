@@ -31,4 +31,4 @@ jobs:
         git checkout develop
         git add docs
         git commit -m "Add built docs"
-        git push origin develop
+        git push https://beagleplays:${{ secrets.PAT }}@github.com/beagleplays/eldenlordchallenge.git develop 
