@@ -34,7 +34,12 @@ export default defineConfig({
     }),
   ],
   build: { 
-    outDir: './docs'
+    outDir: './docs',
+    rollupOptions: {
+      output: {
+        assetFileNames: 'assets/[name]-[hash][extname]',
+      },
+    },
    },
   define: { 'process.env': {} },
   resolve: {
