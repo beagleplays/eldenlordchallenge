@@ -4,9 +4,11 @@
     <v-row dense v-for="streamer in participantList" :key="streamer.name">
       <v-col>
         <v-avatar
-          size="36px"
+          size="70px"
         >
-        <img v-bind:src="streamer.image" height="100px" width="100px">
+        <a color="primary"  :href="`${streamer.url}`" target="_blank">
+        <img v-bind:src="streamer.image" height="70px" width="70px">
+        </a>
         </v-avatar>
         
       </v-col>
@@ -14,6 +16,8 @@
           <v-card
           :title="`${streamer.name}`"
           :text="`Aktueller Punktestand:` +` `+`${streamer.score}`"
+          :href="`${streamer.url}`"
+          target="_blank"
           ></v-card>
       </v-col>
       <v-col>
