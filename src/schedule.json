@@ -1,0 +1,26 @@
+[
+    {
+        "streamer":"beagleplays",
+        "description":"Der große Eröffnungsstream 🙌",
+        "date":"31.10.2024",
+        "time":"19:00",
+        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+        "url":"https://twitch.tv/beagleplays"
+    },
+    {
+        "streamer":"T_bbiX",
+        "description":"ER ist da und Er wird euch ÜBERRASCHEN!!!",
+        "date":"01.11.2024",
+        "time":"16:30",
+        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+        "url":"https://google.de"
+    },
+    {
+        "streamer":"StampersLineman",
+        "description":"Gamer Daddy!? Dass Ich nicht LACHE",
+        "date":"03.11.2024",
+        "time":"14:30",
+        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+        "url":"https://google.de"
+    }
+]

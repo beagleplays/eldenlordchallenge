@@ -1,0 +1,52 @@
+
+    [
+        {
+            "name": "beagleplays",
+            "description": "das ist die description von dem Kanal",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/beagleplays",
+            "score":"0"
+        },
+        {
+            "name": "StampersLineman",
+            "description": "das ist die description von dem Kanal2",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/stamperslineman",
+            "score":"0"
+        },
+        {
+            "name": "WatabeTV",
+            "description": "das ist die description von dem Kanal4",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/watabetv",
+            "score":"0"
+        },
+        {
+            "name": "OfficialHoschi",
+            "description": "das ist die description von dem Kanal7",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/officialhoschi",
+            "score":"0"
+        },
+        {
+            "name": "T_bbiX",
+            "description": "das ist die description von dem Kanal8",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/t_bbix",
+            "score":"0"
+        },
+        {
+            "name": "Tonyakuu",
+            "description": "das ist die description von dem Kanal9",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/tonyakuu",
+            "score":"0"
+        },
+        {
+            "name": "PayMatesGaming Franky",
+            "description": "das ist die description von dem Kana20",
+            "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+            "url":"https:twitch.tv/playmatesgaming",
+            "score":"0"
+        }
+    ]

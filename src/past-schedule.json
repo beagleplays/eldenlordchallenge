@@ -1,0 +1,18 @@
+[
+    {
+        "streamer":"beagleplays",
+        "description":"Der letzte Test",
+        "date":"29.10.2024",
+        "time":"19:00",
+        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+        "url":"https://twitch.tv/beagleplays"
+    },
+    {
+        "streamer":"T_bbix",
+        "description":"Ich spiele Elden Ring?!",
+        "date":"25.10.2024",
+        "time":"17:30",
+        "image":"https://cdn.vuetifyjs.com/images/parallax/material.jpg",
+        "url":"https://google.de"
+    }
+]
