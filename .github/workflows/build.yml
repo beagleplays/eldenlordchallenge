@@ -25,12 +25,10 @@ jobs:
       run: npm run build
 
     - name: Push docs folder
-      env:
-        ACTIONS_DEPLOY_ACCESS_TOKEN: ${{ secrets.PAT }}
       run: |
         git config --global user.email "beagleplays@gmail.com"
         git config --global user.name "beagleplays"
         git checkout develop
         git add docs
         git commit -m "Add built docs"
-        git push https://$ACTIONS_DEPLOY_ACCESS_TOKEN@github.com/beagleplays/eldenlordchallenge.git develop 
+        git push https://beagleplays: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@github.com/beagleplays/eldenlordchallenge.git develop 
