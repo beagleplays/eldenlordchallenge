@@ -26,9 +26,11 @@ jobs:
 
     - name: Push docs folder
       run: |
-        git config --global user.email "beagleplays@gmail.com"
-        git config --global user.name "beagleplays"
-        git checkout develop
-        git add docs
-        git commit -m "Add built docs"
-        git push https://beagleplays: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@github.com/beagleplays/eldenlordchallenge.git develop 
+          git config --global user.email "beagleplays@gmail.com"
+          git config --global user.name "beagleplays"
+          git checkout develop
+          git add docs
+          git commit -m "Add built docs"
+          git push origin develop
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
