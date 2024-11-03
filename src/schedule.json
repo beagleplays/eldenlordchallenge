@@ -8,14 +8,6 @@
         "url":"https://twitch.tv/tonyakuu"
     },
     {
-        "streamer":"PayMatesGaming Franky",
-        "description":" WIR STELLEN UNS! - BeaglePlays EldenLordChallenge - mit Franky & Maxim",
-        "date":"13.11.2024",
-        "time":"20:30",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e5ad541e-18bc-460e-8dd5-4e1366c6c2bd-profile_image-70x70.png",
-        "url":"https://twitch.tv/playmatesgaming"
-    },
-    {
         "streamer":"T_bbiX",
         "description":"6h EASY überlebt und jetzt machen wir Punkte 💯",
         "date":"04.11.2024",
@@ -30,5 +22,13 @@
         "time":"19:30",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
         "url":"https://www.twitch.tv/videos/2290343784"
+    },
+    {
+        "streamer":"PayMatesGaming Franky",
+        "description":" WIR STELLEN UNS! - BeaglePlays EldenLordChallenge - mit Franky & Maxim",
+        "date":"13.11.2024",
+        "time":"20:30",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e5ad541e-18bc-460e-8dd5-4e1366c6c2bd-profile_image-70x70.png",
+        "url":"https://twitch.tv/playmatesgaming"
     }
 ]
