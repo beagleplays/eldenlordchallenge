@@ -1,19 +1,35 @@
 [
     {
-        "streamer":"T_bbiX",
-        "description":"6h EASY überlebt und jetzt machen wir Punkte 💯",
-        "date":"04.11.2024",
-        "time":"18:00",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
-        "url":"https://www.twitch.tv/videos/2290957071"
-    },
-    {
         "streamer":"beagleplays",
         "description":"NO DEATH Run in Elden Ring kann auch GEIL sein 😁",
         "date":"05.11.2024",
         "time":"19:30",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
-        "url":"https://www.twitch.tv/videos/2290343784"
+        "url":"https://twitch.tv/beagleplays"
+    },
+    {
+        "streamer":"OfficialHoschi",
+        "description":"Elden Ring aber der Fallschaden bringt mich an den Rand der Verzweiflung 🔥",
+        "date":"06.11.2024",
+        "time":"16/17 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
+        "url":"https://twitch.tv/officialhoschi"
+    },
+    {
+        "streamer":"OfficialHoschi",
+        "description":"Elden Ring aber Ah shit here we go again",
+        "date":"07.11.2024",
+        "time":"17/18 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
+        "url":"https://twitch.tv/officialhoschi"
+    },
+    {
+        "streamer":"WatabeTV",
+        "description":"Elden Noob vs No Death Run ✌️",
+        "date":"05.11.2024",
+        "time":"19:00 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/05d9ce31-2a93-4b0b-90eb-713a7b4551db-profile_image-70x70.png",
+        "url":"https://twitch.tv/watabetv"
     },
     {
         "streamer":"PayMatesGaming Franky",
