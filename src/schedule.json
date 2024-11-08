@@ -1,21 +1,5 @@
 [
     {
-        "streamer":"OfficialHoschi",
-        "description":"GodGamer im No-Death-Turnier",
-        "date":"06.11.2024",
-        "time":"16/17 Uhr",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
-        "url":"https://twitch.tv/officialhoschi"
-    },
-    {
-        "streamer":"OfficialHoschi",
-        "description":"GodGamer im No-Death-Turnier",
-        "date":"07.11.2024",
-        "time":"17/18 Uhr",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
-        "url":"https://twitch.tv/officialhoschi"
-    },
-    {
         "streamer":"WatabeTV",
         "description":"Elden Noob vs No Death Run ✌️",
         "date":"08.11.2024",
@@ -24,7 +8,15 @@
         "url":"https://twitch.tv/watabetv"
     },
     {
-        "streamer":"PayMatesGaming Franky",
+        "streamer":"beagleplays",
+        "description":"Der ULTIMATIVE BOSSRUSH 🥵",
+        "date":"09.11.2024",
+        "time":"Nachmittag/ Abend",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/beagleplays"
+    },
+    {
+        "streamer":"PlayMatesGaming Franky",
         "description":" WIR STELLEN UNS! - BeaglePlays EldenLordChallenge - mit Franky & Maxim",
         "date":"13.11.2024",
         "time":"20:30",

@@ -38,5 +38,37 @@
         "time":"19:30",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
         "url":"https://www.twitch.tv/videos/2294433178"
+    },
+    {
+        "streamer":"OfficialHoschi",
+        "description":"GodGamer im No-Death-Turnier",
+        "date":"06.11.2024",
+        "time":"16/17 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2295091822"
+    },
+    {
+        "streamer":"T_bbiX",
+        "description":"Ich bin nicht süchtig und ich habe auch kein Problem",
+        "date":"06.11.2024",
+        "time":"22:45 Uhr - 06:30 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/t_bbix"
+    },
+    {
+        "streamer":"OfficialHoschi",
+        "description":"SUCHE BESTRAFUNG 🔥One-Death-Turnier",
+        "date":"07.11.2024",
+        "time":"17/18 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2295940385"
+    },
+    {
+        "streamer":"T_bbiX",
+        "description":"Ich bin WIRKLICH nicht süchtig und ich habe auch WIRKLICH kein Problem",
+        "date":"06.11.2024",
+        "time":"21 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/t_bbix"
     }
 ]
