@@ -53,7 +53,7 @@
         "date":"06.11.2024",
         "time":"22:45 Uhr - 06:30 Uhr",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
-        "url":"https://www.twitch.tv/t_bbix"
+        "url":"https://www.twitch.tv/videos/2295452255"
     },
     {
         "streamer":"OfficialHoschi",
@@ -69,6 +69,22 @@
         "date":"06.11.2024",
         "time":"21 Uhr",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/93653670-509d-4dd7-b0f2-216e10a8500c-profile_image-70x70.png",
-        "url":"https://www.twitch.tv/t_bbix"
+        "url":"https://www.twitch.tv/videos/2296046854"
+    },
+    {
+        "streamer":"WatabeTV",
+        "description":"Elden Noob vs No Death Run ✌️",
+        "date":"08.11.2024",
+        "time":"19:00 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/05d9ce31-2a93-4b0b-90eb-713a7b4551db-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2296774106"
+    },
+    {
+        "streamer":"beagleplays",
+        "description":"Der ULTIMATIVE BOSSRUSH 🥵",
+        "date":"09.11.2024",
+        "time":"Nachmittag/ Abend",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2297602143"
     }
 ]
