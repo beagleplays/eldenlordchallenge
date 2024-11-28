@@ -126,5 +126,45 @@
         "time":"14:00 Uhr",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/05d9ce31-2a93-4b0b-90eb-713a7b4551db-profile_image-70x70.png",
         "url":"https://www.twitch.tv/videos/2303220016"
+    },
+    {
+        "streamer":"PlayMatesGaming Franky",
+        "description":" WIR STELLEN UNS! - BeaglePlays EldenLordChallenge - mit Franky & Maxim",
+        "date":"19.11.2024",
+        "time":"19:30",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e5ad541e-18bc-460e-8dd5-4e1366c6c2bd-profile_image-70x70.png",
+        "url":"https://twitch.tv/playmatesgaming"
+    },
+    {
+        "streamer":"beagleplays",
+        "description":"Ab hier kann es ÜBERALL ENDEN 🥵",
+        "date":"15.11.2024",
+        "time":"Abend",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2302628011"
+    },
+    {
+        "streamer":"StampersLineman",
+        "description":"Elden Lord Challenge TAG 1",
+        "date":"24.11.2024",
+        "time":"Mittags",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e2c4a2b5-156d-4371-b726-ac62ce0e449f-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/stamperslineman/video/2309882984"
+    },
+    {
+        "streamer":"PlayMatesGaming Franky",
+        "description":" WIR STELLEN UNS! - BeaglePlays EldenLordChallenge - mit Franky & Maxim",
+        "date":"28.11.2024",
+        "time":"19:30",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e5ad541e-18bc-460e-8dd5-4e1366c6c2bd-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2312530466"
+    },
+    {
+        "streamer":"beagleplays",
+        "description":"ES IST DAS GROßE FINALE!!! 🏆",
+        "date":"28.11.2024",
+        "time":"19:30 Uhr",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/videos/2313305288"
     }
 ]
