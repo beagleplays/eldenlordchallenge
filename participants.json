@@ -5,14 +5,7 @@
         "description": "das ist die description von dem Kanal",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/39c84766-81e5-4dd5-8a62-df958436c3af-profile_image-70x70.png",
         "url":"https://twitch.tv/beagleplays",
-        "score":"400 ---ELDENBESTIE TOT---"
-    },
-    {
-        "name": "StampersLineman",
-        "description": "das ist die description von dem Kanal2",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e2c4a2b5-156d-4371-b726-ac62ce0e449f-profile_image-70x70.png",
-        "url":"https://twitch.tv/stamperslineman",
-        "score":"3 ---TOT---"
+        "score":"400 ---ÜBERLEBT---"
     },
     {
         "name": "T_bbiX",
@@ -22,25 +15,18 @@
         "score":"275 ---TOT---"
     },
     {
+        "name": "B4ronyx",
+        "description": "das ist die description von dem Kana20",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e155f0b6-02ec-4957-8412-df778062f833-profile_image-70x70.png",
+        "url":"https://www.twitch.tv/b4ronyx",
+        "score":"132 ---TOT---"
+    },
+    {
         "name": "WatabeTV",
         "description": "das ist die description von dem Kanal3",
         "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/05d9ce31-2a93-4b0b-90eb-713a7b4551db-profile_image-70x70.png",
         "url":"https://twitch.tv/watabetv",
-        "score":"9"
-    },
-    {
-        "name": "Tonyakuu",
-        "description": "das ist die description von dem Kanal5",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/1b834e7d-aa54-4c7a-9045-f41e3dcc2312-profile_image-70x70.jpeg",
-        "url":"https://twitch.tv/tonyakuu",
-        "score":"6 ---TOT---"
-    },
-    {
-        "name": "OfficialHoschi",
-        "description": "das ist die description von dem Kanal7",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
-        "url":"https://twitch.tv/officialhoschi",
-        "score":"0 ---TOT---"
+        "score":"37 ---DEADLINE---"
     },
     {
         "name": "PlayMatesGaming Franky",
@@ -50,10 +36,24 @@
         "score":"8 ---TOT---"
     },
     {
-        "name": "B4ronyx",
-        "description": "das ist die description von dem Kana20",
-        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e155f0b6-02ec-4957-8412-df778062f833-profile_image-70x70.png",
-        "url":"https://www.twitch.tv/b4ronyx",
-        "score":"0"
+        "name": "Tonyakuu",
+        "description": "das ist die description von dem Kanal5",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/1b834e7d-aa54-4c7a-9045-f41e3dcc2312-profile_image-70x70.jpeg",
+        "url":"https://twitch.tv/tonyakuu",
+        "score":"6 ---TOT---"
+    },
+    {
+        "name": "StampersLineman",
+        "description": "das ist die description von dem Kanal2",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/e2c4a2b5-156d-4371-b726-ac62ce0e449f-profile_image-70x70.png",
+        "url":"https://twitch.tv/stamperslineman",
+        "score":"3 ---TOT---"
+    },
+    {
+        "name": "OfficialHoschi",
+        "description": "das ist die description von dem Kanal7",
+        "image":"https://static-cdn.jtvnw.net/jtv_user_pictures/053c131f-f5d3-418b-8820-94da72f0d5a7-profile_image-70x70.png",
+        "url":"https://twitch.tv/officialhoschi",
+        "score":"0 ---TOT---"
     }
 ]
